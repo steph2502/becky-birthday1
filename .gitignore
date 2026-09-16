@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+
+public/videos/compressed-tmp.mp4
+public/videos/letters-tmp.mp4
+compress-letters.cjs
+
+# Letters video is hosted on YouTube, so it stays out of the repo.
+public/videos/happy-birthday-friends.mp4
