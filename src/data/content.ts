@@ -202,7 +202,7 @@ export const videos: VideoMemory[] = [
 ]
 
 export const lettersVideo = {
-  videoUrl: 'https://youtu.be/K3LPeErhnh8',
+  videoUrl: 'https://youtu.be/A4Dp-9b8yHM',
   title: 'Happy Birthday, Becky \uD83C\uDF89',
   caption: '',
 }
